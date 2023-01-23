@@ -7,7 +7,8 @@ Grécia Antiga é um projeto fã-clube website de livre escolha, feito durante o
 <br>
 
 <p align="center">
-  <img alt="projeto Grécia Antiga" src=".github/preview.jpg" width="50%" height="50%">
+  <img alt="projeto Grécia Antiga" src=".github/preview.png" width="70%" height="70%">
+  <img alt="projeto Grécia Antiga" src=".github/preview1.png" width="70%" height="70%">
 </p>
 
 ## 🚀 Tecnologias
@@ -21,8 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Grécia antiga é um website que traz ao visitante os principais deuses do Olimpo.
 
-- [Visite o projeto online](https://mateusalecrin.github.io/explorer-rocketseat/)
-
+- [Visite o projeto online](https://mateusalecrin.github.io/grecia-antiga/)
 
 ---
 
