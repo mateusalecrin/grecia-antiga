@@ -7,8 +7,8 @@ Grécia Antiga é um projeto fã-clube website de livre escolha, feito durante o
 <br>
 
 <p align="center">
-  <img alt="projeto Grécia Antiga" src=".github/preview.png" width="70%" height="70%">
-  <img alt="projeto Grécia Antiga" src=".github/preview1.png" width="70%" height="70%">
+  <img width="70%" height="70%" alt="projeto Grécia Antiga" src=".github/preview.png" >
+  <img width="70%" height="70%" alt="projeto Grécia Antiga" src=".github/preview1.png" >
 </p>
 
 ## 🚀 Tecnologias
